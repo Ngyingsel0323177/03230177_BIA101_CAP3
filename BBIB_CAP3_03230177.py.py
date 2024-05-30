@@ -1,3 +1,13 @@
+
+#https://github.com/Ngyingsel0323177/03230177_BIA101_CAP3
+#NGYINGSEL NYINGZER RINCHEN 
+#BBIB
+#03230177
+#REFERENCE 
+#https://www.w3schools.com/python/
+#https://www.geeksforgeeks.org/python-time-module/
+#https://www.geeksforgeeks.org/python-gui-tkinter/
+#Solution:<488206>
 import time
 import tkinter as tk
 
